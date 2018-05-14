@@ -24,6 +24,7 @@ public enum CCharacter{
 	GREATER_THAN,
 	LESSER_THAN,
 	PIPE,
+	PLUS,
 	ZERO,
 	PERCENTAGE,
 	BACKSLASH,
